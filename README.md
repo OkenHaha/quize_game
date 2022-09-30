@@ -1,7 +1,7 @@
 # Trivia Quiz game
 In the pursuit of learning Vue JS, following along with a course on Udemy, this project was made successfully by the instructor of the Udemy course that I enrolled. Highly thankful and grateful for being able to complete this small little project while learning Vue JS. This uses localStorage to store the score board.
 
-### Link to the site:- (quize-game)[https://quize-game-amber.vercel.app/]
+### Link to the site:- [quize-game](https://quize-game-amber.vercel.app/)
 
 # How to run
 1. clone the repo and `cd` into the project folder
